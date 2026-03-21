@@ -12,3 +12,8 @@ a = [22,44,55,77,88]
 for index,num in enumerate(a):
     print(f"{num} in {index}th position")
 
+i=0
+while i<len(name):           #using while loop
+    print(name[i]*(i+1))
+    i+=1
+
