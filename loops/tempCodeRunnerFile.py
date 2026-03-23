@@ -1,1 +1,1 @@
-print(f1)
+# Topic : Multiples
