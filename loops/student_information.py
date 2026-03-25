@@ -8,4 +8,4 @@ for student in students:
     print("Name:", student["name"])
     print("Age:", student["age"])
     print("Marks:", student["marks"])
-    print("-------------------")
+    print("-------------------")   
