@@ -5,7 +5,7 @@ def marriage(boy,girl):
 marriage("ayush","amaya")  #positional arguments
 marriage(boy="sushanth",girl="samaya") #keyword arguments
 
-def names(name="none"):#default parameter
+def names(name="none"):#default parameter values
     print(name)
 
 names()
