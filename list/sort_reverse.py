@@ -1,4 +1,4 @@
-# Topic : Reverse And Sort List
+# Topic :  Sort And Reverse  List
 numbers = [5, 2, 9, 1, 7]
 
 numbers.sort(reverse=True)
