@@ -27,4 +27,14 @@ while i <= 10:
     print(i)
 print("End")
 
+for i in range(1, 11):
+    
+    if i == 5:
+        continue   # skip 5
+    
+    if i == 8:
+        break      # stop loop at 8
+    
+    print(i)
+
     
