@@ -16,6 +16,17 @@ if not(a>b) :
     print("yes")
 else:
     print("no")
+
+username = "admin"
+password = "1234"
+
+if username == "admin" and password == "1234":
+    print("Login Successful")
+else:
+    print("Invalid Login")
+
+
+
  
 
 
