@@ -11,9 +11,9 @@ name = input("Enter your name: ")
 
 # check membership
 if name in students:
-    print("Login Successful")
+    print("Login Successful!")
 else:
-    print("Access Denied")
+    print("Access Denied!")
 
 # checking not in
 blocked_users = ["Amit"]
