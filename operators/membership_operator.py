@@ -7,7 +7,7 @@ print("python" not in a)
 students = ["Rahul", "Priya", "Amit", "Sneha"]
 
 # user trying to login
-name = input("Enter your name: ")
+name = input("Enter your name ")
 
 # check membership
 if name in students:
