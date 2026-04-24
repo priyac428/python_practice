@@ -2,6 +2,6 @@
 a = {"name" : "priya",
      "age"  :  20,
      "education" : "engineering"}
-
+print(a["name"])
 print(a["age"])
-print(a.get("name"))
+print(a.get("education"))
