@@ -16,4 +16,4 @@ else:
     print("No discount available")
 
 print("Discount:", discount)
-print("Final bill amount:", final_bill)
+print("Final Bill Amount:", final_bill)
