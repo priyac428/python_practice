@@ -2,8 +2,8 @@
 
 arr = [10, 5, 20, 8, 20]
 
-large = 0
-second_large = 0
+large =arr[0]
+second_large =arr[0]
 
 for i in arr:
     if i > large:
